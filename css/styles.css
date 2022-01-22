@@ -115,6 +115,7 @@ hr {
 .development {
   width: 25%;
   float: right;
+  clear: left;
   padding: 30px;
 }
 
